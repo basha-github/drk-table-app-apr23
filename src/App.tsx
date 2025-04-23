@@ -1,7 +1,14 @@
 import React from 'react'
+import MyTable from './drk-components/MyTable'
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+
+<MyTable />
+
+
+
+    </div>
   )
 }
